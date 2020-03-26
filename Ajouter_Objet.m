@@ -41,8 +41,8 @@ function Ajouter_Objet (x,y,theta,rayon,densite,v_x,v_y,v_r,cod,to,colr)
     
   % Code de l'objet si l'on veut qu'il fasse parti d'un groupe
     Code(Nb_objets+1) = cod;
-     %tau(Nb_objets+1) = to;
-         %couleur(Nb_objets+1) =colr;
+    %tau(Nb_objets+1) = to;
+    %couleur(Nb_objets+1) = colr;
   % Temps de relaxation 
   
   % Nombre d'objets dans la nouvelle configuration
